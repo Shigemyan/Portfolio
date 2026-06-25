@@ -1,11 +1,19 @@
-# Portfolio
+# ポートフォリオ
 
-## Kotomi Shibata
+## 柴田琴美
 
-Business Process Improvement
-Automation Support
-Operations Design
+製本会社で約14年半、機械オペレーターと品質チェックを担当してきました。
 
-### Portfolio PDF
+現場の課題を整理し、使いやすい仕組みに落とし込む視点を強みに、Python・GAS・Difyを活用した業務効率化ツールの開発に取り組んでいます。
 
-Please download and view the PDF file in this repository.
+### 希望する業務
+
+- 業務改善
+- 自動化支援
+- オペレーション設計
+
+### ポートフォリオ
+
+このリポジトリには、制作実績やスキルをまとめたポートフォリオPDFを掲載しています。
+
+ぜひご覧ください。
