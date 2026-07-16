@@ -75,8 +75,8 @@ Google Apps Script / Gmail / Google Sheets / Dify / OpenAI API
 
 - 稼働可能時間：平日 8:00〜17:00／週40時間程度］
 - ご連絡の返信目安：原則24時間以内
-- 使用可能な連絡ツール：Chatwork / / Gmail］
-- ご相談窓口：［メールアドレス、問い合わせフォーム、クラウドソーシングのプロフィールURLなど］
+- 使用可能な連絡ツール：Chatwork / Gmail］
+- ご相談窓口：
 
 ## 情報の取り扱い
 
